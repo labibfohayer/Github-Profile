@@ -45,7 +45,6 @@ Whether it is developing efficient management tools like *BD Mess* and *Hisab Ap
 | Project | Architecture & Role | Tech Stack | Production Status |
 | :--- | :--- | :--- | :---: |
 | [**BD Mess**](https://github.com/labibfohayer) | **Smart Living & Meal Management System**<br/>Streamlines shared apartment accounts, meal calculation, automated utility split, and transparency. | `React` `Tailwind` `Python` `Firebase` | 🟢 Live |
-| [**Hisab App**](https://github.com/labibfohayer) | **Daily Financial & Expense Tracker**<br/>High-speed, intuitive accounting solution for tracking daily business balance, cashflow, and visual logs. | `React` `JavaScript` `REST API` | 🟢 Active |
 | [**Ponyopuri**](https://github.com/labibfohayer) | **Modern E-Commerce Storefront**<br/>Engineered a customer-first storefront with scalable inventory management, cart systems, and brand experience. | `E-Commerce` `Tailwind` `Cloud` | 🟢 Live |
 | [**Webpulse Bots**](https://github.com/labibfohayer) | **Automated Customer Support Chatbot**<br/>24/7 intelligent business automation bot integrated with messaging APIs to auto-convert leads into clients. | `Python` `AI APIs` `Automation` | 🟢 Live 24/7 |
 
