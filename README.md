@@ -1,87 +1,142 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3c660d63-8a85-46c2-8ca4-fd40e88749ff" width="100%" alt="Labib Fohayer - Founder & CEO @ Webpulse Automation" />
+  <img src="https://github.com/user-attachments/assets/3c660d63-8a85-46c2-8ca4-fd40e88749ff" width="100%" alt="Labib Fohayer - Full-Stack Developer and Founder at Webpulse Automation" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=CBD5E1&center=true&vCenter=true&width=550&lines=Founder+%26+CEO+%40+Webpulse+Automation;Full-Stack+Web+Developer;React+%26+Python+Specialist;Building+Scalable+Automation+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=CBD5E1&center=true&vCenter=true&width=550&lines=Founder+%26+Lead+Engineer+%40+Webpulse+Automation;Full-Stack+Web+Developer;React+%26+Next.js+Architect;Python+%26+AI+Automation+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
 ---
-## Hi there 👋
-- 🔭 I’m currently working on **Webpulse Automation** and various **Web Development Projects** (like BD Mess & Hisab App).
-- 🌱 I’m currently learning **Advanced React, Python, and AI Automation tools**.
-- 👯 I’m looking to collaborate on **open-source web development and automation projects**.
-- 🤔 I’m looking for help with **scaling full-stack applications**.
-- 💬 Ask me about **Frontend Development (React, Tailwind), Python, and E-commerce management**.
-- 📫 How to reach me: **[WhatsApp](https://wa.me/8801580506445)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I transitioned from working as a delivery rider and salesman to founding my own tech agency, Webpulse Automation!**
 
-### 👨💻 About Me:
+# Labib Fohayer
 
-Hi, I'm **Labib Fohayer**, a passionate Web Developer and Tech Entrepreneur based in Bangladesh. As the Founder & Chairman of **Webpulse Automation**, I specialize in building responsive web applications, custom chatbots, and business automation solutions. 
+**Full-Stack Software Engineer | AI Automation Architect | Founder & Lead Developer at Webpulse Automation**
 
-My journey into tech has been driven by pure passion and resilience—transitioning from working as a delivery rider and salesman to establishing my own tech agency. I love turning complex problems into elegant, scalable, and user-friendly solutions using technologies like React, Python, and Tailwind CSS. 
-
-Whether it is developing efficient management tools like *BD Mess* and *Hisab App*, or scaling my e-commerce venture, *Ponyopuri*, I focus on understanding unique needs to deliver high-quality results. I am always eager to learn new AI automation tools, collaborate on impactful projects, and build solutions that truly make a difference.
+Dhaka, Bangladesh
 
 ---
 
-### 🧩 Core Capabilities & Engineering Focus
+## Project Overview & Professional Profile
 
-| Domain | What I Architect & Deliver |
-| :--- | :--- |
-| 🤖 **AI Automation & Smart Bots** | Custom AI-driven chatbots, workflow automations, and intelligent data-pipelines tailored for businesses. |
-| 🌐 **Full-Stack Web Architecture** | Scalable, high-performance responsive web applications built with modern frontend frameworks and clean APIs. |
-| 📊 **Business & SaaS Management Tools** | Cloud-based utility applications (e.g. *BD Mess*, *Hisab App*) automating daily accounts, billing, and resource management. |
-| 🛍️ **E-Commerce & Digital Infrastructure** | End-to-end e-commerce solutions, seamless payment integrations, inventory tracking, and client-centric UX. |
+I am a full-stack software engineer and technology entrepreneur specializing in modern web architectures, business process automation, and intelligent conversational agents. As the founder of Webpulse Automation, I design and deploy production-grade systems that streamline operational workflows, automate e-commerce fulfillment, and provide reliable web services for enterprise and commercial clients.
 
-<br/>
-
-### 🚀 Featured Production Projects
-
-| Project | Architecture & Role | Tech Stack | Production Status |
-| :--- | :--- | :--- | :---: |
-| [**BD Mess**](https://github.com/labibfohayer) | **Smart Living & Meal Management System**<br/>Streamlines shared apartment accounts, meal calculation, automated utility split, and transparency. | `React` `Tailwind` `Python` `Firebase` | 🟢 Live |
-| [**Hisab App**](https://github.com/labibfohayer) | **Daily Financial & Expense Tracker**<br/>High-speed, intuitive accounting solution for tracking daily business balance, cashflow, and visual logs. | `React` `JavaScript` `REST API` | 🟢 Active |
-| [**Ponyopuri**](https://github.com/labibfohayer) | **Modern E-Commerce Storefront**<br/>Engineered a customer-first storefront with scalable inventory management, cart systems, and brand experience. | `E-Commerce` `Tailwind` `Cloud` | 🟢 Live |
-| [**Webpulse Bots**](https://github.com/labibfohayer) | **Automated Customer Support Chatbot**<br/>24/7 intelligent business automation bot integrated with messaging APIs to auto-convert leads into clients. | `Python` `AI APIs` `Automation` | 🟢 Live 24/7 |
+My technical background spans frontend engineering with React and Next.js, backend architecture using Django and Node.js, and automated pipelines powered by machine learning APIs, file system event listeners, and webhook integrations.
 
 ---
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/labibfohayer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/labib.fohayer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/labib.fohayer/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/labib-fohayer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@labib.fohayer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/labibfohayer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCSU3yYxc6X9eToQjXKPQt6w) 
+## Key Features & Core Competencies
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=labibfohayer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=labibfohayer&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=labibfohayer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=labibfohayer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=labibfohayer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Full-Stack Architecture: Designing responsive single-page and server-rendered web applications with Next.js, React, TypeScript, and Tailwind CSS.
+- Workflow and Messaging Automation: Engineering automated order processing, document generation, and multi-channel bots across Meta Graph API, Telegram, and WhatsApp.
+- Artificial Intelligence Integration: Implementing Large Language Model workflows with Google Gemini API for intelligent customer support, document parsing, and content generation.
+- Database and Data Modeling: Schema design, transaction management, and query optimization across PostgreSQL, SQLite, and MongoDB.
+- Cloud Infrastructure and DevOps: Continuous deployment to edge platforms (Cloudflare Pages, Vercel, Render), Docker containerization, and GitHub Actions automation.
 
 ---
 
-## 🐍 Contribution Graph Snake
+## Featured Production Projects
+
+### NAWABIYAAT - Royal Panjabi Atelier
+- Architecture: Next.js 16 App Router, React 19, TypeScript, Tailwind CSS v4, Local Storage Events.
+- Highlights: High-fashion digital atelier featuring dynamic lookbook showcases, automated AI sizing calculation, interactive sliding bag drawer with real-time coupon evaluation, and an integrated `/admin` portal for catalog and order management.
+- Repository: [NAWABIYAAT-Fasion-Website](https://github.com/labibfohayer/NAWABIYAAT-Fasion-Website)
+
+### AMMS - Al Modina Model Madrasah Management System
+- Architecture: Django 6 REST Framework, Next.js 16 PWA, PostgreSQL, SimpleJWT, Node.js WhatsApp microservice.
+- Highlights: Enterprise management platform featuring 12 operational modules (Admissions, Academics, Attendance, Examination, Fees, Hostel, Library, Noticeboard, Reports) and automated WhatsApp alerts for guardians.
+- Repository: [AMMS-project](https://github.com/labibfohayer/AMMS-project)
+
+### Webpulse AutoOrder Engine
+- Architecture: Node.js, Express, Chokidar, PDFKit, QRCode, Meta Graph API Webhooks, Server-Sent Events.
+- Highlights: End-to-end e-commerce order automation pipeline that ingests customer orders, verifies webhook events, dynamically generates PDF invoices with QR verification codes, and synchronizes sales ledgers in real time.
+- Repository: [Webpulse-Page-Automation](https://github.com/labibfohayer/Webpulse-Page-Automation)
+
+### Al-Modina Intelligent Automation Bot
+- Architecture: Node.js, Express, Google Gemini API (`@google/generative-ai`), Telegram Bot API, Meta Messenger Webhook, Node-Cron.
+- Highlights: Dual-channel conversational assistant that processes Facebook Messenger inquiries and Telegram administrative commands, generating automated social media posts and handling admissions inquiries.
+- Repository: [Al-Modina-Automation](https://github.com/labibfohayer/Al-Modina-Automation)
+
+### BD Mess - Shared Living & Expense Manager
+- Architecture: Kotlin, Jetpack Compose, Android SDK 36, Material 3, Web-to-Native Integration, Gemini API.
+- Highlights: Android utility application designed for shared bachelor apartments in Bangladesh, providing meal count tracking, dynamic meal rate calculators, utility bill splitting, and automated monthly balance statements.
+- Repository: [BD-Mess-App](https://github.com/labibfohayer/BD-Mess-App)
+
+### Coffee Peyala - Specialty Coffee House
+- Architecture: React 19, Vite 6, Tailwind CSS v4, Lucide React, Canvas Confetti.
+- Highlights: Artisan coffee house web application featuring an interactive table booking modal, smooth horizontal signature menu carousel, and dynamic cart drawer with pricing in Bangladeshi Taka.
+- Repository: [Coffee-Shop-Website](https://github.com/labibfohayer/Coffee-Shop-Website)
+
+### MeZuMir E-Commerce
+- Architecture: React 19, TypeScript, Vite 6, Tailwind CSS, Cloudflare Pages edge hosting.
+- Highlights: Regional culinary e-commerce platform and digital menu equipped with an integrated administrative control dashboard, category-based item exploration, and rapid cart checkout.
+- Repository: [MeZuMir-E-commarce](https://github.com/labibfohayer/MeZuMir-E-commarce)
+
+---
+
+## Tech Stack
+
+- Languages: JavaScript (ES6+), TypeScript, Python 3, Kotlin, HTML5, CSS3, SQL, Bash
+- Frontend: React 19, Next.js 16, Vite, Tailwind CSS (v3 / v4), GSAP, Lenis Smooth Scroll, Lucide React
+- Backend & Microservices: Node.js, Express, Django, Django REST Framework, Gunicorn, Celery, Uvicorn
+- AI & Automation: Google Gemini API, Meta Graph API, Telegram Bot API, WhatsApp-Web.js, Chokidar, PDFKit, QRCode
+- Databases: PostgreSQL, SQLite, MongoDB, Redis
+- Tooling & Platforms: Git, GitHub CLI, GitHub Actions, Docker, Linux, Cloudflare Pages, Vercel, Render
+
+---
+
+## Installation and Setup Guide
+
+This profile README and contribution visualizer is automated via GitHub Actions:
+
+### 1. Repository Setup
+To replicate or run this profile setup:
+```bash
+git clone https://github.com/labibfohayer/Github-Profile.git
+cd Github-Profile
+```
+
+### 2. Workflow Automation Configuration
+The contribution grid snake animation is maintained under `.github/workflows/snake.yml`. It runs automatically every 24 hours on a cron schedule (`0 */24 * * *`) and pushes compiled vector animations (`github-contribution-grid-snake.svg`) to the `output` branch.
+
+### 3. Local Verification
+To test changes locally before pushing:
+```bash
+gh workflow view snake.yml
+gh workflow run snake.yml
+```
+
+---
+
+## GitHub Statistics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=labibfohayer&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Labib Fohayer GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=labibfohayer&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=labibfohayer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Animation" src="https://raw.githubusercontent.com/labibfohayer/labibfohayer/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
-[![](https://komarev.com/ghpvc/?username=labibfohayer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Professional Links & Contact
+
+- Portfolio: [https://labibfohayer.github.io](https://labibfohayer.github.io)
+- LinkedIn: [https://linkedin.com/in/labib-fohayer](https://linkedin.com/in/labib-fohayer)
+- GitHub: [https://github.com/labibfohayer](https://github.com/labibfohayer)
+- Behance: [https://behance.net/labibfohayer](https://behance.net/labibfohayer)
+- WhatsApp: [Direct Contact](https://wa.me/8801580506445)
+- Location: Dhaka, Bangladesh
